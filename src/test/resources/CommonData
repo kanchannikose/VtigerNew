@@ -1,0 +1,6 @@
+baseurl = http://localhost:8888/
+username = admin
+password = admin
+browser = Firefox
+firefoxpath = C:\Users\HP\eclipse-workspace\E-bankingProject\Drivers\geckodriver.exe
+edgepath = C:\Users\HP\eclipse-workspace\VtigerNew\Drivers\msedgedriver.exe
